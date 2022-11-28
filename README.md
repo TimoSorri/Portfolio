@@ -1,2 +1,3 @@
 # Portfolio
-Tässä muutama koulussa tehty peliprojekti/Here's a couple of projects made at school
+Tässä muutama koulussa tehty peliprojekti/
+Here's a couple of game projects made at school
